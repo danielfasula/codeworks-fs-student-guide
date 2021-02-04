@@ -43,7 +43,7 @@ You've hit your timebox, and you're asking for help: how do you get the most val
 
 If your lead developer actually answers with "yes" or "no", you're only gaining 1 bit of information, the smallest amount of information possible. Instead, ask open ended questions: "what should the result be like?" "can you walk me through how this works?", etc.
 
-Always present a potential answer the question.
+Always present a potential answer to the question.
 
 It doesn't have to be the best answer, or the correct answer (if it were, you probably wouldn't be asking for help, after all). But you should always say something like "my best guess is this works like this, because of X and Y, but I'm still a little confused - could you explain this?"
 
